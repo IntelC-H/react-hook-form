@@ -18,7 +18,7 @@
   <a href="https://react-hook-form.com/docs">API</a> |
   <a href="https://react-hook-form.com/form-builder">Form Builder</a> |
   <a href="https://react-hook-form.com/faqs">FAQs</a> |
-  <a href="https://github.com/bluebill1049/react-hook-form/tree/master/examples">Examples</a>
+  <a href="https://github.com/react-hook-form/react-hook-form/tree/master/examples">Examples</a>
 </p>
 
 ### Features
@@ -57,10 +57,6 @@ function App() {
   );
 }
 ```
-
-<a href="https://ui.dev/bytes/?r=bill">
-  <img src="https://raw.githubusercontent.com/react-hook-form/react-hook-form/master/docs/ads-1.jpeg" />
-</a>
 
 ### Sponsors
 
